@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Patchipulusu Gayathri Asritha  
 
 🎓 **Computer Science and Engineering Student** at R.V.R. & J.C. College of Engineering, Guntur, AP  
-📫 **Email:** [pgayathriasritha@gmail.com](mailto:pgayathriasritha@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/gayathri-asritha](https://www.linkedin.com/in/gayathri-asritha-patchipulusu-35b77b27a/)  
-💻 **GitHub:** [github.com/Patchipulusu-Gayathri-Asritha06](https://github.com/Patchipulusu-Gayathri-Asritha06)  
+
+📫 **Email**  &nbsp; &nbsp; &nbsp; [pgayathriasritha@gmail.com](mailto:pgayathriasritha@gmail.com)  
+
+💼 **LinkedIn** &nbsp;[linkedin.com/in/gayathri-asritha](https://www.linkedin.com/in/gayathri-asritha-patchipulusu-35b77b27a/) 
+
+💻 **GitHub** &nbsp; &nbsp;[github.com/Patchipulusu-Gayathri-Asritha06](https://github.com/Patchipulusu-Gayathri-Asritha06) 
 
 ---
 
@@ -18,28 +21,29 @@ I enjoy turning ideas into impactful digital solutions — from building scalabl
 
 ## 🧠 Technical Skills  
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <th>Languages</th>
+    <th align="left">Languages</th>
     <td>Java, Python, C, JavaScript, SQL</td>
   </tr>
   <tr>
-    <th>Web Technologies</th>
-    <td>HTML, CSS, Node.js, Express.js, EJS </td>
+    <th align="left">Web Technologies</th>
+    <td>HTML, CSS, Node.js, Express.js, EJS</td>
   </tr>
   <tr>
-    <th>Frameworks & Tools</th>
+    <th align="left">Frameworks & Tools</th>
     <td>Streamlit, Bootstrap, MapBox</td>
   </tr>
   <tr>
-    <th>Databases & Tools</th>
+    <th align="left">Databases & Tools</th>
     <td>MongoDB, Mongoose, Git, GitHub</td>
   </tr>
   <tr>
-    <th>Operating Systems</th>
+    <th align="left">Operating Systems</th>
     <td>Windows, Linux</td>
   </tr>
-</table> 
+</table>
+
 
 ---
 
