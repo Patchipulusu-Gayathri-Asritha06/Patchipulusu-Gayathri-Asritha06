@@ -90,8 +90,8 @@ I enjoy turning ideas into impactful digital solutions — from building scalabl
 ## 📊 Education  
 
 **R.V.R. & J.C. College of Engineering, Guntur, AP**  
-🎓 B.Tech in Computer Science and Engineering* (Oct 2022 – Apr 2026)  
-📈 CGPA: **9.78 / 10 (up to 6th semester)**  
+- 🎓 B.Tech in Computer Science and Engineering* (Oct 2022 – Apr 2026)  
+- 📈 CGPA: **9.78 / 10 (up to 6th semester)**  
 
 ---
 
